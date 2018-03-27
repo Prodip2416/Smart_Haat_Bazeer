@@ -17,11 +17,10 @@ The user will be able to updatetheir own profile and also see their uploaded pro
                
   # Advantages:
  
- 1.Always we will check product details and the owner details as if we confirm that the product is genuine.
- 2.It is the risk-free zone for dealing money between the product owner and the buyer.
+     1.Always we will check product details and the owner details as if we confirm that the product is genuine.
+     2.It is the risk-free zone for dealing money between the product owner and the buyer.
  
  # Final Goal of this project
- 
- 1.Add Payment method such as (bkash,DBBL,Rocket) Etc.
- 2.We will be Cover whole bangladesh in future.
+     1.Add Payment method such as (bkash,DBBL,Rocket) Etc.
+     2.We will be Cover whole bangladesh in future.
            
