@@ -1,0 +1,20 @@
+﻿body {
+}
+.productContainer {
+    display: block; clear: both; min-height: 300px; overflow: hidden; height: auto;
+    border: black thin solid;
+    padding: 20px;
+    width: 1200px;
+}
+.product {
+    width: 320px;
+    padding: 10px;
+    background-color: #c0c0c0;
+    margin: 5px;
+    box-shadow: 3px 3px gray;
+    float: left;
+}
+img {
+    height: 300px;
+    width: inherit;
+}
